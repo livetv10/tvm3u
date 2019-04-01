@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/6f/3c/a2/6f3ca21e-f975-dcd5-f813-d0032174856f/source/512x512bb.jpg:,FOX 5 DC News
+#EXTINF:-1, tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/6f/3c/a2/6f3ca21e-f975-dcd5-f813-d0032174856f/source/512x512bb.jpg",FOX 5 DC News
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4a403c32b98f86379e4a7388342e1433?ticket=70965225D1D38AB3E3C96226C20DCA875DE09FF6
 #EXTINF:-1,FOX 5 PLUS DC
 http://tvserver:12345@192.168.2.6:9981/stream/channel/34fa1c0d652bf17401625777714a250b?ticket=6E5AD53CF73F755CF4E00E0CF6C95F5D3DDA981B
