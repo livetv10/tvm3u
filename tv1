@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1,FOX 5 DC
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000001ae8c0/d0d1449c-11aa-492a-a9ff-1de817293d5c.jpg",Fox 5 DC News
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4a403c32b98f86379e4a7388342e1433?ticket=70965225D1D38AB3E3C96226C20DCA875DE09FF6
-#EXTINF:-1,FOX 5 PLUS
+#EXTINF:-1, tvg-logo="https://media.fox5DC.com/media.fox5dc.com/photo/2017/07/16/WDCA-Fox5Plus-170523-LogoForWeb_1280x720_1500256698203_3805113_ver1.0_640_360.jpg",FOX 5 PLUS DC
 http://tvserver:12345@192.168.2.6:9981/stream/channel/34fa1c0d652bf17401625777714a250b?ticket=6E5AD53CF73F755CF4E00E0CF6C95F5D3DDA981B
-#EXTINF:-1,IONLIFE
+#EXTINF:-1, tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",ION LIFE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/69d6c9192aa93fd86fa1cda64ead4c3f?ticket=C8B5B6154326BF4EB143176590E8B24259F980C8
-#EXTINF:-1,NBC 4 DC
+#EXTINF:-1, tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg",NBC 4 DC News 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/7c6dab2ccd5fa538349dc115350b5f69?ticket=3C9372316A516747D7172F7C335810E55AD1DBA3
-#EXTINF:-1,ABC
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://tvserver:12345@192.168.2.6:9981/stream/channel/a864e41ddab6aa838c6d584f8210a795?ticket=0F2022ACE1BA64308F23A452548D41CDF9523749
-#EXTINF:-1,CW MYTV
+#EXTINF:-1,tvg-logo="https://www.iptv-market.net/wp-content/uploads/2018/02/mytv.png",MYTV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/8b3fc6d8b6ee95200ba50e11b01e6e3d?ticket=E09B7473DBC21D2AB215ED6CC0CDD68D1569014D
-#EXTINF:-1,FOX 45 BALTIMORE
+#EXTINF:-1, tvg-logo="http://bobpaff.com/wp-content/uploads/2011/01/fox_45_Baltimore.jpg",FOX 45 BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/33ac7a187fab14d83c0415594f9ef62e?ticket=1B5C9AEF8327E40247E8B47F1332E4BFDE896829
-#EXTINF:-1,ION TV
+#EXTINF:-1, tvg-logo="https://364bb1b8faea5923fe26-d1e1eff15c981e296a91bd09c3814b40.ssl.cf5.rackcdn.com/global/iOS_Retina.png",ION TV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/13fce96abb5321650d3f7c1a5d799fb7?ticket=BDA8577A42712BE108A6CE4FE992691BF38F740F
-#EXTINF:-1,CW 54 BALTIMORE
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/956547306630742016/wzqdScj6_200x200.jpg",WB54 BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/6091dc196f86c31bef806a3935485c1d?ticket=E9909EBFD09AA1A3EEA0F2119BC1921ADBBB06CB
-#EXTINF:-1,BOUNCE
+#EXTINF:-1, tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",BOUNCE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/47da79b27a6c188045a962089a6cc6e2?ticket=1F93FAF3D17FB082CC5B522E8BEB5E0538B1E76B
