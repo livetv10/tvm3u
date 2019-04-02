@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",FOX 5 DC News
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4a403c32b98f86379e4a7388342e1433?ticket=70965225D1D38AB3E3C96226C20DCA875DE09FF6
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34427/s34427_h3_aa.png",FOX 5 PLUS DC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",FOX 5 PLUS DC
 http://tvserver:12345@192.168.2.6:9981/stream/channel/34fa1c0d652bf17401625777714a250b?ticket=6E5AD53CF73F755CF4E00E0CF6C95F5D3DDA981B
 #EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",ION LIFE 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/69d6c9192aa93fd86fa1cda64ead4c3f?ticket=C8B5B6154326BF4EB143176590E8B24259F980C8
@@ -11,7 +11,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/7c6dab2ccd5fa538349dc11535
 http://tvserver:12345@192.168.2.6:9981/stream/channel/a864e41ddab6aa838c6d584f8210a795?ticket=0F2022ACE1BA64308F23A452548D41CDF9523749
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50339/s51307_h3_aa.png",MYTV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/8b3fc6d8b6ee95200ba50e11b01e6e3d?ticket=E09B7473DBC21D2AB215ED6CC0CDD68D1569014D
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21233/s28719_h3_aa.png",FOX 45 BALTIMORE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",FOX 45 BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/33ac7a187fab14d83c0415594f9ef62e?ticket=1B5C9AEF8327E40247E8B47F1332E4BFDE896829
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26195/s18633_h3_aa.png",ION TV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/13fce96abb5321650d3f7c1a5d799fb7?ticket=BDA8577A42712BE108A6CE4FE992691BF38F740F
