@@ -5,6 +5,10 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/a864e41ddab6aa838c6d584f82
 http://tvserver:12345@192.168.2.6:9981/stream/channel/7c6dab2ccd5fa538349dc115350b5f69?ticket=3C9372316A516747D7172F7C335810E55AD1DBA3
 #EXTINF:-1, tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",FOX 5.1 DC News
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4a403c32b98f86379e4a7388342e1433?ticket=70965225D1D38AB3E3C96226C20DCA875DE09FF6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC 7.1
+http://192.168.2.2:5004/auto/v7.1?transcode=mobile
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA",CBS
+http://192.168.2.2:5004/auto/v9.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",FOX 5 PLUS DC
 http://tvserver:12345@192.168.2.6:9981/stream/channel/34fa1c0d652bf17401625777714a250b?ticket=6E5AD53CF73F755CF4E00E0CF6C95F5D3DDA981B
 #EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",ION LIFE 
@@ -13,6 +17,8 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/69d6c9192aa93fd86fa1cda64e
 http://tvserver:12345@192.168.2.6:9981/stream/channel/8b3fc6d8b6ee95200ba50e11b01e6e3d?ticket=E09B7473DBC21D2AB215ED6CC0CDD68D1569014D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",FOX 45 BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/33ac7a187fab14d83c0415594f9ef62e?ticket=1B5C9AEF8327E40247E8B47F1332E4BFDE896829
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png",CW DC
+http://192.168.2.2:5004/auto/v50.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34522/s53098_h3_aa.png",CW54 BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/6091dc196f86c31bef806a3935485c1d?ticket=E9909EBFD09AA1A3EEA0F2119BC1921ADBBB06CB
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26195/s18633_h3_aa.png",ION TV
