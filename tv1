@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png" group-title="USA",ABC 2.1WMAR
-http://tvserver:12345@192.168.2.6:9981/stream/channel/a864e41ddab6aa838c6d584f8210a795?ticket=0F2022ACE1BA64308F23A452548D41CDF9523749
+http://tvserver:12345@192.168.2.6:9981/stream/channel/a864e41ddab6aa838c6d584f8210a795?ticket=11261EA9228FD573B3F2A5D422F88503AD898F0F
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC4 DC News 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/7c6dab2ccd5fa538349dc115350b5f69?ticket=3C9372316A516747D7172F7C335810E55AD1DBA3
 #EXTINF:-1, tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",FOX 5.1 DC News
