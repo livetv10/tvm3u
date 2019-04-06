@@ -5,11 +5,11 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/a864e41ddab6aa838c6d584f82
 http://tvserver:12345@192.168.2.6:9981/stream/channel/47da79b27a6c188045a962089a6cc6e2?ticket=9691908A9EEC9B32A4D39DB474C1E1F98E2E516A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",4.1 WRC-HD 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/7c6dab2ccd5fa538349dc115350b5f69?ticket=3C9372316A516747D7172F7C335810E55AD1DBA3
-#EXTINF:-1,https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg" 4.2 COZI TV 
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg" 4.2 COZI TV 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/0e81c062a470da9dc2dbe997c68ea56a?ticket=3C3357F9B63AE5AB8A3947498F5800BDCD5495DA
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",5.1 WTTG-DT
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4a403c32b98f86379e4a7388342e1433?ticket=70965225D1D38AB3E3C96226C20DCA875DE09FF6
-#EXTINF:-11 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",5.3 METV
+#EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",5.3 METV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4de283d63dd6c240b6a812d1c20150f7?ticket=F15CE6A67C157BB858A8050DA01356B3D997C981
 #EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg",7.1 WJLA-HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/e9403b7a8594e737edc87e433330a811?ticket=B1B14E717396AE5654EB38E2E8613A0436ED99B7
@@ -25,7 +25,7 @@ http://192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02df34a3?ticket=7
 http://tvserver:12345@192.168.2.6:9981/stream/channel/47da79b27a6c188045a962089a6cc6e2?ticket=1F93FAF3D17FB082CC5B522E8BEB5E0538B1E76B
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
 http://tvserver:12345@192.168.2.6:9981/stream/channel/34fa1c0d652bf17401625777714a250b?ticket=6E5AD53CF73F755CF4E00E0CF6C95F5D3DDA981B
-#EXTINF:-1, tvg-logo=https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png "24.1 MyTV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png",24.1 MyTV
 http://192.168.2.6:9981/stream/channel/8b3fc6d8b6ee95200ba50e11b01e6e3d?ticket=691EB6D3FCE4529EBDE6667928D630EA8E32CF72
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",45.1 FOX BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/33ac7a187fab14d83c0415594f9ef62e?ticket=1B5C9AEF8327E40247E8B47F1332E4BFDE896829
