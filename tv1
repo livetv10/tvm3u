@@ -5,7 +5,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/a864e41ddab6aa838c6d584f82
 http://tvserver:12345@192.168.2.6:9981/stream/channel/47da79b27a6c188045a962089a6cc6e2?ticket=9691908A9EEC9B32A4D39DB474C1E1F98E2E516A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",4.1 WRC-HD 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/7c6dab2ccd5fa538349dc115350b5f69?ticket=3C9372316A516747D7172F7C335810E55AD1DBA3
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg" 4.2 COZI TV 
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", 4.2 COZI TV 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/0e81c062a470da9dc2dbe997c68ea56a?ticket=3C3357F9B63AE5AB8A3947498F5800BDCD5495DA
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",5.1 WTTG-DT
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4a403c32b98f86379e4a7388342e1433?ticket=70965225D1D38AB3E3C96226C20DCA875DE09FF6
