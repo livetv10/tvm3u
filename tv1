@@ -20,7 +20,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/a67d0c55f60aa9af6c6327314c
 #EXTINF:-11 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",11.2 METV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4de283d63dd6c240b6a812d1c20150f7?ticket=B4D2D8C234BF501E9E75A0323D3E43E368D2685D
 #EXTINF:-1,tvg-logo="https://cbsbaltimore.files.wordpress.com/2018/08/cbsbaltimorelogo.jpg",13.1 WJZ-TV 
-http://192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02df34a3?ticket=7AC4F3E2131B90076307FFEB04D2782165AC97AC
+http://tvserver:12345@192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02df34a3?ticket=7AC4F3E2131B90076307FFEB04D2782165AC97AC
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",14.4 BOUNCE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/47da79b27a6c188045a962089a6cc6e2?ticket=1F93FAF3D17FB082CC5B522E8BEB5E0538B1E76B
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
