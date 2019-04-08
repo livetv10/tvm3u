@@ -26,7 +26,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/47da79b27a6c188045a962089a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
 http://tvserver:12345@192.168.2.6:9981/stream/channel/34fa1c0d652bf17401625777714a250b?ticket=6E5AD53CF73F755CF4E00E0CF6C95F5D3DDA981B
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png",24.1 MyTV
-http://192.168.2.6:9981/stream/channel/8b3fc6d8b6ee95200ba50e11b01e6e3d?ticket=691EB6D3FCE4529EBDE6667928D630EA8E32CF72
+http://tvserver:12345@192.168.2.6:9981/stream/channel/8b3fc6d8b6ee95200ba50e11b01e6e3d?ticket=691EB6D3FCE4529EBDE6667928D630EA8E32CF72
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",45.1 FOX BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/33ac7a187fab14d83c0415594f9ef62e?ticket=1B5C9AEF8327E40247E8B47F1332E4BFDE896829
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50339/s51307_h3_aa.png",45.2 MyTV
