@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",2.1 WMAR-HD
 http://tvserver:12345@192.168.2.6:9981/pl192.168.2.6:9981/stream/service/882e26e70f2ebb18fcd133872ff2c29b?ticket=93EA9D1282DEC8AE54AB5714FAD7FF4CC6811F78
 
-#EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",2.3 : BOUNCE
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/7e351ccb4c7aea508b11dadbfe22fd6d?title=2.3%20%3A%20BOUNCE
+#EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",2.3 BOUNCE
+http://tvserver:12345@192.168.2.6:9981/stream/service/d3f2d5169a7ad201dbf5df21eaa57360?ticket=2636D131CDF0619583ABA0DA60BC87839714B731
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",4.1 WRC-HD 
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/e1853a73dd5af0156a1f2109ffb0cae7?title=4.1%20%3A%20WRC-HD%20NBC%204%20Washington
+http://tvserver:12345@192.168.2.6:9981/stream/service/1ed4f987af18c51a6a77f426c3ab767e?ticket=B8178FF8BF866C2E67CC52773F0141CAA650DBBC
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", 4.2 COZI TV 
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/0ab2f381dd530648c815677c5be257cf?title=4.2%20%3A%20COZI%20TV%20on%20WRC-TV
+http://tvserver:12345@192.168.2.6:9981/stream/service/d02c8910c022cb04a22e6c09720a296c?ticket=3FCD5C9AAF62D877F8D56378F18F7061D0B95F41%20on%20WRC-TV
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",5.1 WTTG-DT
 http://tvserver:12345@192.168.2.6:9981/stream/channel/e1bf80378c3433688f130aaeb9176a1e?ticket=CDB98007DF48D26F3D1DABCCF4F02AF7D25DF513
 
 #EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",5.3 METV
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/a2d396141518a0018de7aabf47a48038?title=5.3%20%3A%20ME%20TV%20
+http://tvserver:12345@192.168.2.6:9981/stream/service/d5bb37ee9fbfea9d71d1c77c3a76eaca?ticket=8E78C9A49E4CA9850CA52E7AE357C09FA1A7791B
 
 #EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg",7.1 WJLA-HD
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/5ae8d3ab531e9cf10b6cff5399f1c357?title=7.1%20%3A%20WJLA-HD
+http://tvserver:12345@192.168.2.6:9981/stream/service/d1cc64ea23b47fb644bb154a05c37538?ticket=2B68BF447899DCA96C587AF2CEBDD1BACCA8DC5D
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png",9.1 WUSA-HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/84402a48e87cce90954d3f9c5d654644?ticket=7A44881B96B7424991526E164FB12DB315082D3A
@@ -54,10 +54,10 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/a70051434bd648d50ebf373ed0
 http://tvserver:12345@192.168.2.6:9981/play/stream/channel/5bf05864bea1219f2f5b68ea3afc67cc?title=54.1%20%3A%20CW
 
 #EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png",66.1 ION TV
-http://tvserver:12345@192.168.2.6:9981/stream/channel/13fce96abb5321650d3f7c1a5d799fb7?ticket=BDA8577A42712BE108A6CE4FE992691BF38F740F
+http://tvserver:12345@192.168.2.6:9981/stream/service/2a490cc0f804e20a50bc17001bd404b9?ticket=4E298E4E6EDC19A19D5D12C6474E0973F8E22548
 
 #EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", 66.3 IONLife
-http://tvserver:12345@192.168.2.6:9981/stream/channel/69d6c9192aa93fd86fa1cda64ead4c3f?ticket=A4ED50D1987FBCDFDEC274519FE9D2A24294EBAF
+http://tvserver:12345@192.168.2.6:9981/stream/service/4caad3fcbc8dba5336c4fd6e3c77900c?ticket=34DD63979D8E803186339AABE8580FFF16BEFC4E
 
 #EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg",BBC World News
 http://tvserver:12345@192.168.2.6:9981/stream/channel/fef70e6c51cf71f300d4feea317239c5?ticket=E54141A45B53EA6F36EFBE922C2C2125EBB8EE9C
