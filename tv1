@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",2.1 WMAR-HD
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/bb9c35d519cad422185a2428674cfefb?title=2.1%20%3A%20WMAR-HD
+http://tvserver:12345@192.168.2.6:9981/pl192.168.2.6:9981/stream/service/882e26e70f2ebb18fcd133872ff2c29b?ticket=93EA9D1282DEC8AE54AB5714FAD7FF4CC6811F78
 
 #EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",2.3 : BOUNCE
 http://tvserver:12345@192.168.2.6:9981/play/stream/channel/7e351ccb4c7aea508b11dadbfe22fd6d?title=2.3%20%3A%20BOUNCE
@@ -15,7 +15,7 @@ http://tvserver:12345@192.168.2.6:9981/play/stream/channel/0ab2f381dd530648c8156
 http://tvserver:12345@192.168.2.6:9981/stream/channel/e1bf80378c3433688f130aaeb9176a1e?ticket=CDB98007DF48D26F3D1DABCCF4F02AF7D25DF513
 
 #EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",5.3 METV
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/a2d396141518a0018de7aabf47a48038?title=5.3%20%3A%20ME%20TV%205.3
+http://tvserver:12345@192.168.2.6:9981/play/stream/channel/a2d396141518a0018de7aabf47a48038?title=5.3%20%3A%20ME%20TV%20
 
 #EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg",7.1 WJLA-HD
 http://tvserver:12345@192.168.2.6:9981/play/stream/channel/5ae8d3ab531e9cf10b6cff5399f1c357?title=7.1%20%3A%20WJLA-HD
