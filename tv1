@@ -33,12 +33,12 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/4de283d63dd6c240b6a812d1c2
 http://tvserver:12345@192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02df34a3?ticket=7AC4F3E2131B90076307FFEB04D2782165AC97AC
 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",14.4 BOUNCE
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/3e007d088c7a1284913e9bc9f5d441fd?title=14.4%20%3A%20BOUNCE%20
+http://tvserver:12345@192.168.2.6:9981/stream/service/67cd6397c81f14911f75b2629c9fd83e?ticket=95D59E46CB69963101573A6B9224DDE44B08B81F
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
 http://tvserver:12345@192.168.2.6:9981/play/stream/channel/fd85a4a482a1299990e0a85e747d8ddd?title=20.1%20%3A%20WDCA%20
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png",24.1 MyTV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png", MyTV
 http://tvserver:12345@192.168.2.6:9981/play/stream/channel/74c53316096b2707eeee44f0d4915481?title=24.1%20%3A%20MyTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",45.1 FOX BALTIMORE
