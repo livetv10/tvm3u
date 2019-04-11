@@ -1,23 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",2.1 WMAR-HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/92ccd596d34152656335719fa99145c8?ticket=E22A4CAE23C6B7C28D35112913FF3978A3FD1F42
+
 #EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",2.3 BOUNCE
-http://tvserver:12345@192.168.2.6:9981/stream/service/d3f2d5169a7ad201dbf5df21eaa57360?ticket=2636D131CDF0619583ABA0DA60BC87839714B731
+http://tvserver:12345@192.168.2.6:9981/stream/channel/8d979ce6d3876e9ac47eef0012f1d6a5?ticket=E17C013F5E250726EADD3EECFEDCAB4F0B23B757
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",4.1 WRC-HD 
-http://tvserver:12345@192.168.2.6:9981/stream/service/1ed4f987af18c51a6a77f426c3ab767e?ticket=B8178FF8BF866C2E67CC52773F0141CAA650DBBC
+http://tvserver:12345@192.168.2.6:9981/stream/channel/27b4270d59953cee5e6510a121f5ccb3?ticket=4E69D783A4824C9D901E1E392C5A9DF05A14D3B4
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", 4.2 COZI TV 
 http://tvserver:12345@192.168.2.6:9981/stream/service/d02c8910c022cb04a22e6c09720a296c?ticket=84052F755DC4146548AE5FD713DDE2241F86A2B4
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",5.1 WTTG-DT
-http://tvserver:12345@192.168.2.6:9981/stream/channel/e1bf80378c3433688f130aaeb9176a1e?ticket=CDB98007DF48D26F3D1DABCCF4F02AF7D25DF513
+http://tvserver:12345@192.168.2.6:9981/stream/channel/4ca239d647edf2b803d34b746cdc7a66?ticket=37363E6B7553B9433602984B14EEF4077D5AD882
 
 #EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",5.3 METV
-http://tvserver:12345@192.168.2.6:9981/stream/service/d5bb37ee9fbfea9d71d1c77c3a76eaca?ticket=8E78C9A49E4CA9850CA52E7AE357C09FA1A7791B
+http://tvserver:12345@192.168.2.6:9981/stream/channel/8e41bb638eaf157495111481133e32de?ticket=7B60AD74A2C126B964413F6312C6D9D5366A076E
 
 #EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg",7.1 WJLA-HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/d1cc64ea23b47fb644bb154a05c37538?ticket=2B68BF447899DCA96C587AF2CEBDD1BACCA8DC5D
+http://tvserver:12345@192.168.2.6:9981/stream/channel/15c51df51a2df5da81f9b69a05a47c4a?ticket=4A52703E45488DAFB0A9213248B9BE271009870F
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png",9.1 WUSA-HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/0b7954343e491d0cc2d37c90f5fced65?ticket=C773EB2ABF0198E8E75C67B9845AAE5777B68494
@@ -32,7 +33,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/74fd00e3e38a759510edeccc1f
 http://tvserver:12345@192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02df34a3?ticket=7AC4F3E2131B90076307FFEB04D2782165AC97AC
 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",14.4 BOUNCE
-http://tvserver:12345@192.168.2.6:9981/stream/service/67cd6397c81f14911f75b2629c9fd83e?ticket=95D59E46CB69963101573A6B9224DDE44B08B81F
+http://tvserver:12345@192.168.2.6:9981/stream/channel/235a5f2e1212b783da791c4bb5f79c7b?ticket=13A5C8B04D733D51977255BF6CF4A7DEE2F2F19F
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
 http://tvserver:12345@192.168.2.6:9981/stream/channel/fd85a4a482a1299990e0a85e747d8ddd?ticket=C7C50FBB866EAE67948C29F4B869D470DF5181F0
