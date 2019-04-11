@@ -36,29 +36,27 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02
 http://tvserver:12345@192.168.2.6:9981/stream/channel/235a5f2e1212b783da791c4bb5f79c7b?ticket=13A5C8B04D733D51977255BF6CF4A7DEE2F2F19F
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
-http://tvserver:12345@192.168.2.6:9981/stream/channel/fd85a4a482a1299990e0a85e747d8ddd?ticket=C7C50FBB866EAE67948C29F4B869D470DF5181F0
+http://tvserver:12345@192.168.2.6:9981/stream/channel/006890e2b02b0f152c242f239123d6a0?ticket=4C1B7A753EDCDB7CF70CFFC25A525A5C3AE26D99
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png", MyTV
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/74c53316096b2707eeee44f0d4915481?title=24.1%20%3A%20MyTV
+http://tvserver:12345@192.168.2.6:9981/stream/channel/536f6d89383a3c13330c6ead62b58950?ticket=4DBD86EF4D50D3A4ABF4B13736E99672D681E406
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",45.1 FOX BALTIMORE
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/9979a9edd7df9f9c738a774bc738a84c?title=45.1%20%3A%20FOX
+http://tvserver:12345@192.168.2.6:9981/stream/channel/e19969aa3413d66e285b30f31b4a1026?ticket=42A8618EF80D35468C535EDEB8EB589598C5B517
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50339/s51307_h3_aa.png",45.2 MyTV
 http://tvserver:12345@192.168.2.6:9981/play/stream/channel/42776f7cf54fadd0b24b13132769f116?title=45.2%20%3A%20MyTV
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", 50.1 WDCW-HD
-http://tvserver:12345@192.168.2.6:9981/stream/channel/a70051434bd648d50ebf373ed0a5b436?ticket=AD055E76A5DA9B2C14B328174715D4E27911FA5B
+http://tvserver:12345@192.168.2.6:9981/stream/channel/f3c5dba1b57c61681c1d98bdc4b5b4fe?ticket=7C12CA696BB5D99C7D13CFC20B5F03EE97BC3A7B
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW-54 BALTIMORE
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/5bf05864bea1219f2f5b68ea3afc67cc?title=54.1%20%3A%20CW
+http://tvserver:12345@192.168.2.6:9981/stream/channel/5487e7d048ea18bd64f05d8fffb1be04?ticket=8152377836F023262E91161A517574BF556F2C43
 
 #EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png",66.1 ION TV
-http://tvserver:12345@192.168.2.6:9981/stream/service/2a490cc0f804e20a50bc17001bd404b9?ticket=4E298E4E6EDC19A19D5D12C6474E0973F8E22548
+http://tvserver:12345@192.168.2.6:9981/stream/channel/8999489464fd4d6d2b26da43be436983?ticket=51D074831594743A442C465721B9C1863F3CD45C
 
 #EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", 66.3 IONLife
-http://tvserver:12345@192.168.2.6:9981/stream/service/4caad3fcbc8dba5336c4fd6e3c77900c?ticket=34DD63979D8E803186339AABE8580FFF16BEFC4E
+http://tvserver:12345@192.168.2.6:9981/stream/channel/1854b2af1116b0606d829dca76047029?ticket=7C82B18B67425834D9690E9BAC8614DC10AA1C53
 
-#EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg",BBC World News
-http://tvserver:12345@192.168.2.6:9981/stream/channel/fef70e6c51cf71f300d4feea317239c5?ticket=E54141A45B53EA6F36EFBE922C2C2125EBB8EE9C
 
