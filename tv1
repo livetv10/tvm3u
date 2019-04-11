@@ -29,9 +29,6 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/6b47cb3f657ab80ec0a016644a
 #EXTINF:-11 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",11.2 METV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/74fd00e3e38a759510edeccc1f752fa7?ticket=53D3EC9B4B509CB644351A61E261B496B4182D91
 
-#EXTINF:-1,tvg-logo="https://cbsbaltimore.files.wordpress.com/2018/08/cbsbaltimorelogo.jpg",13.1 WJZ-TV 
-http://tvserver:12345@192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02df34a3?ticket=7AC4F3E2131B90076307FFEB04D2782165AC97AC
-
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",14.4 BOUNCE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/235a5f2e1212b783da791c4bb5f79c7b?ticket=13A5C8B04D733D51977255BF6CF4A7DEE2F2F19F
 
