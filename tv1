@@ -36,7 +36,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/b2925aef7bad48abb4cda09a02
 http://tvserver:12345@192.168.2.6:9981/stream/service/67cd6397c81f14911f75b2629c9fd83e?ticket=95D59E46CB69963101573A6B9224DDE44B08B81F
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/fd85a4a482a1299990e0a85e747d8ddd?title=20.1%20%3A%20WDCA%20
+http://tvserver:12345@192.168.2.6:9981/stream/channel/fd85a4a482a1299990e0a85e747d8ddd?ticket=C7C50FBB866EAE67948C29F4B869D470DF5181F0
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png", MyTV
 http://tvserver:12345@192.168.2.6:9981/play/stream/channel/74c53316096b2707eeee44f0d4915481?title=24.1%20%3A%20MyTV
