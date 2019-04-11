@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",2.1 WMAR-HD
-http://tvserver:12345@192.168.2.6:9981/pl192.168.2.6:9981/stream/service/882e26e70f2ebb18fcd133872ff2c29b?ticket=93EA9D1282DEC8AE54AB5714FAD7FF4CC6811F78
+http://tvserver:12345@192.168.2.6:9981/stream/channel/bb9c35d519cad422185a2428674cfefb?ticket=E3A23FED2CFBA2D0B49741D5DB620FAD264DACC7
 
 #EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",2.3 BOUNCE
 http://tvserver:12345@192.168.2.6:9981/stream/service/d3f2d5169a7ad201dbf5df21eaa57360?ticket=2636D131CDF0619583ABA0DA60BC87839714B731
