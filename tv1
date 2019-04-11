@@ -44,9 +44,6 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/536f6d89383a3c13330c6ead62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",45.1 FOX BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/e19969aa3413d66e285b30f31b4a1026?ticket=42A8618EF80D35468C535EDEB8EB589598C5B517
 
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/50339/s51307_h3_aa.png",45.2 MyTV
-http://tvserver:12345@192.168.2.6:9981/play/stream/channel/42776f7cf54fadd0b24b13132769f116?title=45.2%20%3A%20MyTV
-
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", 50.1 WDCW-HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/f3c5dba1b57c61681c1d98bdc4b5b4fe?ticket=7C12CA696BB5D99C7D13CFC20B5F03EE97BC3A7B
 
