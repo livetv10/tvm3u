@@ -1,38 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",2.1 WMAR-HD
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",ABC BALTIMORE HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/92ccd596d34152656335719fa99145c8?ticket=E22A4CAE23C6B7C28D35112913FF3978A3FD1F42
 
-#EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",2.3 BOUNCE
+#EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg", BOUNCE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/8d979ce6d3876e9ac47eef0012f1d6a5?ticket=E17C013F5E250726EADD3EECFEDCAB4F0B23B757
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",4.1 WRC-HD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/27b4270d59953cee5e6510a121f5ccb3?ticket=4E69D783A4824C9D901E1E392C5A9DF05A14D3B4
 
-#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", 4.2 COZI TV 
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", COZI TV 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/9f4223b00c7d6b6571ef2e743df5c48b?ticket=1BCED2AC19DB4032FE51E3DD8A454A051A6C04C0
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png",5.1 WTTG-DT
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/4ca239d647edf2b803d34b746cdc7a66?ticket=37363E6B7553B9433602984B14EEF4077D5AD882
 
-#EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",5.3 METV
+#EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png", METV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/8e41bb638eaf157495111481133e32de?ticket=7B60AD74A2C126B964413F6312C6D9D5366A076E
 
-#EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg",7.1 WJLA-HD
+#EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg", ABC7 HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/15c51df51a2df5da81f9b69a05a47c4a?ticket=4A52703E45488DAFB0A9213248B9BE271009870F
 
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png",9.1 WUSA-HD
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/0b7954343e491d0cc2d37c90f5fced65?ticket=C773EB2ABF0198E8E75C67B9845AAE5777B68494
 
-#EXTINF:-1 tvg-logo="https://micacareerfair.files.wordpress.com/2015/01/wbaltv.jpg",11.1 NBC
+#EXTINF:-1 tvg-logo="https://micacareerfair.files.wordpress.com/2015/01/wbaltv.jpg", NBC BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/6b47cb3f657ab80ec0a016644a0ea917?ticket=DD23C8799111FD13AC33E2F9AA0B1AC3D6D0CF74
 
-#EXTINF:-11 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png",11.2 METV
+#EXTINF:-11 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png", METV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/74fd00e3e38a759510edeccc1f752fa7?ticket=53D3EC9B4B509CB644351A61E261B496B4182D91
 
-#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",14.4 BOUNCE
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg", BOUNCE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/235a5f2e1212b783da791c4bb5f79c7b?ticket=13A5C8B04D733D51977255BF6CF4A7DEE2F2F19F
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png",20.1 WDCA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png", FOX5 PLUS
 http://tvserver:12345@192.168.2.6:9981/stream/channel/006890e2b02b0f152c242f239123d6a0?ticket=4C1B7A753EDCDB7CF70CFFC25A525A5C3AE26D99
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png", MyTV
@@ -41,16 +41,16 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/536f6d89383a3c13330c6ead62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",45.1 FOX BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/e19969aa3413d66e285b30f31b4a1026?ticket=42A8618EF80D35468C535EDEB8EB589598C5B517
 
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", 50.1 WDCW-HD
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
 http://tvserver:12345@192.168.2.6:9981/stream/channel/f3c5dba1b57c61681c1d98bdc4b5b4fe?ticket=7C12CA696BB5D99C7D13CFC20B5F03EE97BC3A7B
 
-#EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW-54 BALTIMORE
+#EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/5487e7d048ea18bd64f05d8fffb1be04?ticket=8152377836F023262E91161A517574BF556F2C43
 
-#EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png",66.1 ION TV
+#EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png", ION TV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/8999489464fd4d6d2b26da43be436983?ticket=51D074831594743A442C465721B9C1863F3CD45C
 
-#EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", 66.3 IONLife
+#EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", IONLife
 http://tvserver:12345@192.168.2.6:9981/stream/channel/1854b2af1116b0606d829dca76047029?ticket=7C82B18B67425834D9690E9BAC8614DC10AA1C53
 
 
