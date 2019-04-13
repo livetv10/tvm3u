@@ -38,7 +38,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/006890e2b02b0f152c242f2391
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png", MyTV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/536f6d89383a3c13330c6ead62b58950?ticket=4DBD86EF4D50D3A4ABF4B13736E99672D681E406
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png",45.1 FOX BALTIMORE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png", FOX BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/e19969aa3413d66e285b30f31b4a1026?ticket=42A8618EF80D35468C535EDEB8EB589598C5B517
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
