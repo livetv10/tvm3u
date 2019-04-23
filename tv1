@@ -6,7 +6,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/42a6dc1ef16398d8a879465bfb
 http://tvserver:12345@192.168.2.6:9981/stream/channel/8d979ce6d3876e9ac47eef0012f1d6a5?ticket=E17C013F5E250726EADD3EECFEDCAB4F0B23B757
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
-http://tvserver:12345@192.168.2.6:9981/stream/channel/27b4270d59953cee5e6510a121f5ccb3?ticket=4E69D783A4824C9D901E1E392C5A9DF05A14D3B4
+http://tvserver:12345@192.168.2.6:9981/stream/service/8ed03a751f81e7af451dcb727dd548e0?ticket=25F5B869DC01460C94CA01D4A2061492C21FD2EB
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", COZI TV 
 http://tvserver:12345@192.168.2.6:9981/stream/channel/9f4223b00c7d6b6571ef2e743df5c48b?ticket=1BCED2AC19DB4032FE51E3DD8A454A051A6C04C0
