@@ -45,7 +45,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/e19969aa3413d66e285b30f31b
 http://tvserver:12345@192.168.2.6:9981/stream/service/4a5f41e95ddc211108a33b9c6d4446ab?ticket=A4F648DE77CF70A92D8111878966E18BA65947C7
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
-http://tvserver:12345@192.168.2.6:9981/stream/service/ea9cdd546dd722c80638d890997ce65f?ticket=8641F7616086EAA3C09DC450A2219BFBB0CCA258
+http://tvserver:12345@192.168.2.6:9981/stream/service/06da1cd621d764a16c0978a2ace1bfd5?ticket=B78AA64C445C6CEE9AA01BB2397F295C5AD24BA8
 
 #EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png", ION TV
 http://tvserver:12345@192.168.2.6:9981/stream/service/3d843472712fe961efda75f4f5caa68c?ticket=FBC017748F0E4979FB752DC800F6C4F9714EBB2F
