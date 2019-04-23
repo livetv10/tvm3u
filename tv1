@@ -3,7 +3,7 @@
 http://tvserver:12345@192.168.2.6:9981/stream/service/ebc90bba78aa8118235d2f667b5a11c3?ticket=B7492BF97A42E5D66823C9D9E937492FC6385ED7
 
 #EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg", BOUNCE
-http://tvserver:12345@192.168.2.6:9981/stream/service/9166a23aa09fd46f16c339472140841e?ticket=74625809FF33F8ADD4521415E97D9A223B7EEF1C
+http://tvserver:12345@192.168.2.6:9981/stream/service/24e680714285937272618b1024eb7fdf?ticket=FED5E3DB68C13739E3C1E81EBF46B8A21B115BD8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
 http://tvserver:12345@192.168.2.6:9981/stream/service/8ed03a751f81e7af451dcb727dd548e0?ticket=25F5B869DC01460C94CA01D4A2061492C21FD2EB
