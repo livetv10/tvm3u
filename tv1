@@ -18,7 +18,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/service/ad5786be88cc0d6c4097d25de7
 http://tvserver:12345@192.168.2.6:9981/stream/service/0e6dce367d53a9812fb33296dcde9aca?ticket=5CFE37D788C19869263C05BE2B79CA90F5BE3C05
 
 #EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg", ABC7 HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/3186e665f52a0161f38e5419cad28700?ticket=AC6653B30902972EFC677A1F3F286355E8E215B3
+http://tvserver:12345@192.168.2.6:9981/stream/service/ed368f1c590e0ead3311344fea3e6da3?ticket=949904FA79BBC07F673422BB6B524B215F3E2272
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
 http://tvserver:12345@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
