@@ -42,15 +42,15 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/536f6d89383a3c13330c6ead62
 http://tvserver:12345@192.168.2.6:9981/stream/channel/e19969aa3413d66e285b30f31b4a1026?ticket=42A8618EF80D35468C535EDEB8EB589598C5B517
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
-http://tvserver:12345@192.168.2.6:9981/stream/channel/f3c5dba1b57c61681c1d98bdc4b5b4fe?ticket=7C12CA696BB5D99C7D13CFC20B5F03EE97BC3A7B
+http://tvserver:12345@192.168.2.6:9981/stream/service/4a5f41e95ddc211108a33b9c6d4446ab?ticket=A4F648DE77CF70A92D8111878966E18BA65947C7
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
-http://tvserver:12345@192.168.2.6:9981/stream/channel/5487e7d048ea18bd64f05d8fffb1be04?ticket=8152377836F023262E91161A517574BF556F2C43
+http://tvserver:12345@192.168.2.6:9981/stream/service/ea9cdd546dd722c80638d890997ce65f?ticket=8641F7616086EAA3C09DC450A2219BFBB0CCA258
 
 #EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png", ION TV
-http://tvserver:12345@192.168.2.6:9981/stream/channel/8999489464fd4d6d2b26da43be436983?ticket=51D074831594743A442C465721B9C1863F3CD45C
+http://tvserver:12345@192.168.2.6:9981/stream/service/3d843472712fe961efda75f4f5caa68c?ticket=FBC017748F0E4979FB752DC800F6C4F9714EBB2F
 
 #EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", IONLife
-http://tvserver:12345@192.168.2.6:9981/stream/channel/1854b2af1116b0606d829dca76047029?ticket=7C82B18B67425834D9690E9BAC8614DC10AA1C53
+http://tvserver:12345@192.168.2.6:9981/stream/service/7a83859a04f633642e41eda836deea40?ticket=E2D41EA2D51CAEF4CDC5E367BDE86733EF336537
 
 
