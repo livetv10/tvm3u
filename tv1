@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",ABC BALTIMORE HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/4b586f8986cd7402f2c5a1b00be69b5f?ticket=5551F4A844C280208082FE2F6B2861559655BA62
+http://tvserver:12345@192.168.2.6:9981/stream/service/ebc90bba78aa8118235d2f667b5a11c3?ticket=B7492BF97A42E5D66823C9D9E937492FC6385ED7
 
 #EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg", BOUNCE
-http://tvserver:12345@192.168.2.6:9981/stream/channel/8d979ce6d3876e9ac47eef0012f1d6a5?ticket=E17C013F5E250726EADD3EECFEDCAB4F0B23B757
+http://tvserver:12345@192.168.2.6:9981/stream/service/9166a23aa09fd46f16c339472140841e?ticket=74625809FF33F8ADD4521415E97D9A223B7EEF1C
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
 http://tvserver:12345@192.168.2.6:9981/stream/service/8ed03a751f81e7af451dcb727dd548e0?ticket=25F5B869DC01460C94CA01D4A2061492C21FD2EB
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", COZI TV 
-http://tvserver:12345@192.168.2.6:9981/stream/channel/9f4223b00c7d6b6571ef2e743df5c48b?ticket=1BCED2AC19DB4032FE51E3DD8A454A051A6C04C0
+http://tvserver:12345@192.168.2.6:9981/stream/service/42c54c9650d6525dea1ece57de2b33b4?ticket=185B7421B9956B53DB5CB7D8E355A6752341C5C1
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
-http://tvserver:12345@192.168.2.6:9981/stream/channel/4ca239d647edf2b803d34b746cdc7a66?ticket=37363E6B7553B9433602984B14EEF4077D5AD882
+http://tvserver:12345@192.168.2.6:9981/stream/service/ad5786be88cc0d6c4097d25de70ffd20?ticket=5C45C53C0F894DBC66AC5E3D03F43948A4EF1F66
 
 #EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png", METV
-http://tvserver:12345@192.168.2.6:9981/stream/channel/8e41bb638eaf157495111481133e32de?ticket=7B60AD74A2C126B964413F6312C6D9D5366A076E
+http://tvserver:12345@192.168.2.6:9981/stream/service/0e6dce367d53a9812fb33296dcde9aca?ticket=5CFE37D788C19869263C05BE2B79CA90F5BE3C05
 
 #EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg", ABC7 HD
-http://tvserver:12345@192.168.2.6:9981/stream/channel/15c51df51a2df5da81f9b69a05a47c4a?ticket=4A52703E45488DAFB0A9213248B9BE271009870F
+http://tvserver:12345@192.168.2.6:9981/stream/service/3186e665f52a0161f38e5419cad28700?ticket=AC6653B30902972EFC677A1F3F286355E8E215B3
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
-http://tvserver:12345@192.168.2.6:9981/stream/channel/0b7954343e491d0cc2d37c90f5fced65?ticket=C773EB2ABF0198E8E75C67B9845AAE5777B68494
+http://tvserver:12345@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
 
 #EXTINF:-1 tvg-logo="https://micacareerfair.files.wordpress.com/2015/01/wbaltv.jpg", NBC BALTIMORE
 http://tvserver:12345@192.168.2.6:9981/stream/channel/6b47cb3f657ab80ec0a016644a0ea917?ticket=DD23C8799111FD13AC33E2F9AA0B1AC3D6D0CF74
@@ -33,7 +33,7 @@ http://tvserver:12345@192.168.2.6:9981/stream/channel/74fd00e3e38a759510edeccc1f
 http://tvserver:12345@192.168.2.6:9981/stream/channel/235a5f2e1212b783da791c4bb5f79c7b?ticket=13A5C8B04D733D51977255BF6CF4A7DEE2F2F19F
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png", FOX5 PLUS
-http://tvserver:12345@192.168.2.6:9981/stream/channel/006890e2b02b0f152c242f239123d6a0?ticket=4C1B7A753EDCDB7CF70CFFC25A525A5C3AE26D99
+http://tvserver:12345@192.168.2.6:9981/stream/service/6163e25f4bd141cbb1f23679a47dafa2?ticket=F87401DB5A418E7ADF656818969553E3AE6D50E1
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png", MyTV
 http://tvserver:12345@192.168.2.6:9981/stream/channel/536f6d89383a3c13330c6ead62b58950?ticket=4DBD86EF4D50D3A4ABF4B13736E99672D681E406
