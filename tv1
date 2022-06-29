@@ -1,56 +1,56 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/21230/s28708_h3_aa.png",ABC BALTIMORE HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/ebc90bba78aa8118235d2f667b5a11c3?ticket=B7492BF97A42E5D66823C9D9E937492FC6385ED7
+http://tvserver:12345@192.168.105.220:9981/stream/service/ebc90bba78aa8118235d2f667b5a11c3?ticket=B7492BF97A42E5D66823C9D9E937492FC6385ED7
 
 #EXTINF:-1,tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg", BOUNCE
-http://tvserver:12345@192.168.2.6:9981/stream/service/24e680714285937272618b1024eb7fdf?ticket=FED5E3DB68C13739E3C1E81EBF46B8A21B115BD8
+http://tvserver:12345@192.168.105.220:9981/stream/service/24e680714285937272618b1024eb7fdf?ticket=FED5E3DB68C13739E3C1E81EBF46B8A21B115BD8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
-http://tvserver:12345@192.168.2.6:9981/stream/service/8ed03a751f81e7af451dcb727dd548e0?ticket=25F5B869DC01460C94CA01D4A2061492C21FD2EB
+http://tvserver:12345@192.168.105.220:9981/stream/service/8ed03a751f81e7af451dcb727dd548e0?ticket=25F5B869DC01460C94CA01D4A2061492C21FD2EB
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/How-to-Watch-Cozi-TV-Without-Cable-%E2%80%93-Go-Down-Memory-Lane-696x392.jpg", COZI TV 
-http://tvserver:12345@192.168.2.6:9981/stream/service/42c54c9650d6525dea1ece57de2b33b4?ticket=185B7421B9956B53DB5CB7D8E355A6752341C5C1
+http://tvserver:12345@192.168.105.220:9981/stream/service/42c54c9650d6525dea1ece57de2b33b4?ticket=185B7421B9956B53DB5CB7D8E355A6752341C5C1
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/ad5786be88cc0d6c4097d25de70ffd20?ticket=5C45C53C0F894DBC66AC5E3D03F43948A4EF1F66
+http://tvserver:12345@192.168.105.220:9981/stream/service/ad5786be88cc0d6c4097d25de70ffd20?ticket=5C45C53C0F894DBC66AC5E3D03F43948A4EF1F66
 
 #EXTINF:-1 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png", METV
-http://tvserver:12345@192.168.2.6:9981/stream/service/0e6dce367d53a9812fb33296dcde9aca?ticket=5CFE37D788C19869263C05BE2B79CA90F5BE3C05
+http://tvserver:12345@192.168.105.220:9981/stream/service/0e6dce367d53a9812fb33296dcde9aca?ticket=5CFE37D788C19869263C05BE2B79CA90F5BE3C05
 
 #EXTINF:-1 tvg-logo="https://ij.org/wp-content/uploads/2015/06/wjla-logo.jpg", ABC7 HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/ed368f1c590e0ead3311344fea3e6da3?ticket=949904FA79BBC07F673422BB6B524B215F3E2272
+http://tvserver:12345@192.168.105.220:9981/stream/service/ed368f1c590e0ead3311344fea3e6da3?ticket=949904FA79BBC07F673422BB6B524B215F3E2272
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
+http://tvserver:12345@192.168.105.220:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
 
 #EXTINF:-1 tvg-logo="https://micacareerfair.files.wordpress.com/2015/01/wbaltv.jpg", NBC BALTIMORE
-http://tvserver:12345@192.168.2.6:9981/stream/channel/6b47cb3f657ab80ec0a016644a0ea917?ticket=DD23C8799111FD13AC33E2F9AA0B1AC3D6D0CF74
+http://tvserver:12345@192.168.105.220:9981/stream/channel/6b47cb3f657ab80ec0a016644a0ea917?ticket=DD23C8799111FD13AC33E2F9AA0B1AC3D6D0CF74
 
 #EXTINF:-11 tvg-logo="http://www.ihustlaz.com/10%20BUILDS/NETWORK%20ICONS/METV.png", METV
-http://tvserver:12345@192.168.2.6:9981/stream/service/55b76dfb3610ea3185a82efcbf96d5ef?ticket=1C6984255F4EBD4502E79C7A5A57F0DE17748117
+http://tvserver:12345@192.168.105.220:9981/stream/service/55b76dfb3610ea3185a82efcbf96d5ef?ticket=1C6984255F4EBD4502E79C7A5A57F0DE17748117
 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg", BOUNCE
-http://tvserver:12345@192.168.2.6:9981/stream/channel/235a5f2e1212b783da791c4bb5f79c7b?ticket=13A5C8B04D733D51977255BF6CF4A7DEE2F2F19F
+http://tvserver:12345@192.168.105.220:9981/stream/channel/235a5f2e1212b783da791c4bb5f79c7b?ticket=13A5C8B04D733D51977255BF6CF4A7DEE2F2F19F
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png", FOX5 PLUS
-http://tvserver:12345@192.168.2.6:9981/stream/service/6163e25f4bd141cbb1f23679a47dafa2?ticket=F87401DB5A418E7ADF656818969553E3AE6D50E1
+http://tvserver:12345@192.168.105.220:9981/stream/service/6163e25f4bd141cbb1f23679a47dafa2?ticket=F87401DB5A418E7ADF656818969553E3AE6D50E1
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MyTV_Baltimore_2013.png", MyTV
-http://tvserver:12345@192.168.2.6:9981/stream/channel/536f6d89383a3c13330c6ead62b58950?ticket=4DBD86EF4D50D3A4ABF4B13736E99672D681E406
+http://tvserver:12345@192.168.105.220:9981/stream/channel/536f6d89383a3c13330c6ead62b58950?ticket=4DBD86EF4D50D3A4ABF4B13736E99672D681E406
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png", FOX BALTIMORE
-http://tvserver:12345@192.168.2.6:9981/stream/channel/e19969aa3413d66e285b30f31b4a1026?ticket=42A8618EF80D35468C535EDEB8EB589598C5B517
+http://tvserver:12345@192.168.105.220:9981/stream/channel/e19969aa3413d66e285b30f31b4a1026?ticket=42A8618EF80D35468C535EDEB8EB589598C5B517
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
-http://tvserver:12345@192.168.2.6:9981/stream/service/4a5f41e95ddc211108a33b9c6d4446ab?ticket=A4F648DE77CF70A92D8111878966E18BA65947C7
+http://tvserver:12345@192.168.105.220:9981/stream/service/4a5f41e95ddc211108a33b9c6d4446ab?ticket=A4F648DE77CF70A92D8111878966E18BA65947C7
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
-http://tvserver:12345@192.168.2.6:9981/stream/service/06da1cd621d764a16c0978a2ace1bfd5?ticket=B78AA64C445C6CEE9AA01BB2397F295C5AD24BA8
+http://tvserver:12345@192.168.105.220:9981/stream/service/06da1cd621d764a16c0978a2ace1bfd5?ticket=B78AA64C445C6CEE9AA01BB2397F295C5AD24BA8
 
 #EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png", ION TV
-http://tvserver:12345@192.168.2.6:9981/stream/service/3d843472712fe961efda75f4f5caa68c?ticket=FBC017748F0E4979FB752DC800F6C4F9714EBB2F
+http://tvserver:12345@192.168.105.220:9981/stream/service/3d843472712fe961efda75f4f5caa68c?ticket=FBC017748F0E4979FB752DC800F6C4F9714EBB2F
 
 #EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", IONLife
-http://tvserver:12345@192.168.2.6:9981/stream/service/7a83859a04f633642e41eda836deea40?ticket=E2D41EA2D51CAEF4CDC5E367BDE86733EF336537
+http://tvserver:12345@192.168.105.220:9981/stream/service/7a83859a04f633642e41eda836deea40?ticket=E2D41EA2D51CAEF4CDC5E367BDE86733EF336537
 
 
